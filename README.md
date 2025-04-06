@@ -5,5 +5,5 @@ TODO:
 * Bool Functions Theory
 * Code and Information Theory
 * Сombinatorics
-* Discrete Probability theory
-* Formal Language theory
+* Discrete Probability Theory
+* Formal Language Theory
